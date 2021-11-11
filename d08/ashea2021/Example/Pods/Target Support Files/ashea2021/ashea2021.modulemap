@@ -1,0 +1,6 @@
+framework module ashea2021 {
+  umbrella header "ashea2021-umbrella.h"
+
+  export *
+  module * { export * }
+}

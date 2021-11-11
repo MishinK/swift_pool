@@ -1,0 +1,16 @@
+PODS:
+  - ashea2021 (0.1.0)
+
+DEPENDENCIES:
+  - ashea2021 (from `../`)
+
+EXTERNAL SOURCES:
+  ashea2021:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ashea2021: bf6b8322e49d39afd6e9327b98c9acfc1db700d1
+
+PODFILE CHECKSUM: 1b6e66b6a45842184384285d7f3a1766477edfd1
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ashea2021_Example' do
+  pod 'ashea2021', :path => '../'
+
+  target 'ashea2021_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

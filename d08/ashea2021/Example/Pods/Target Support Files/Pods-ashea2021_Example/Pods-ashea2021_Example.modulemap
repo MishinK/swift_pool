@@ -1,0 +1,6 @@
+framework module Pods_ashea2021_Example {
+  umbrella header "Pods-ashea2021_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

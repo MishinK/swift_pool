@@ -1,0 +1,29 @@
+{
+  "name": "ashea2021",
+  "version": "0.1.0",
+  "summary": "pod swift",
+  "description": "This pod was created for educational purposes during the passage of swift piscine day 08 in school 21.",
+  "homepage": "https://github.com/MishinK/ashea2021",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MishinK": "ashea@student.21-school.ru"
+  },
+  "source": {
+    "git": "https://github.com/MishinK/ashea2021.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "ashea2021/Classes/**/*",
+  "resources": "ashea2021/Assets/*",
+  "frameworks": [
+    "UIKit",
+    "CoreData"
+  ],
+  "swift_version": "5.0"
+}

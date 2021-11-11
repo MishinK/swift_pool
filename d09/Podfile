@@ -1,0 +1,9 @@
+platform :ios, '14.0'
+
+target 'd09' do
+
+  use_frameworks!
+
+  pod 'ashea2021', :path => './ashea2021'
+
+end

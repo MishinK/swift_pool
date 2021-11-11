@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "content"; ObjectID = "02D-g0-l8E"; */
+"02D-g0-l8E.text" = "контент";
+
+/* Class = "UINavigationItem"; title = "New Article"; ObjectID = "0fs-ik-EBD"; */
+"0fs-ik-EBD.title" = "новая заметка";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "386-T5-AlP"; */
+"386-T5-AlP.text" = "заголовок";
+
+/* Class = "UIButton"; configuration.title = "Choose art"; ObjectID = "B4M-HF-pCh"; */
+"B4M-HF-pCh.configuration.title" = "выбрать";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B4M-HF-pCh"; */
+"B4M-HF-pCh.normalTitle" = "отправить";
+
+/* Class = "UILabel"; text = "creation"; ObjectID = "SX4-le-ZKX"; */
+"SX4-le-ZKX.text" = "создать";
+
+/* Class = "UINavigationItem"; title = "Articles"; ObjectID = "VLO-Hp-K4N"; */
+"VLO-Hp-K4N.title" = "статьи";
+
+/* Class = "UIButton"; configuration.title = "Take art"; ObjectID = "bNg-Qs-9uh"; */
+"bNg-Qs-9uh.configuration.title" = "сделать";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bNg-Qs-9uh"; */
+"bNg-Qs-9uh.normalTitle" = "кнопка";
+
+/* Class = "UILabel"; text = "modification"; ObjectID = "kuP-Qs-QKl"; */
+"kuP-Qs-QKl.text" = "изменен";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "tSd-yC-FGa"; */
+"tSd-yC-FGa.placeholder" = "заголовок";
